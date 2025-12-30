@@ -23,3 +23,10 @@ In this simulation, GenAI was leveraged to:
 2. **Task 2: Predictive Model Prototyping & Logic Design** - Architected a delinquency prediction pipeline using GenAI to compare Logistic Regression and Decision Tree models, ultimately selecting a Random Forest approach for its balance of high predictive power and feature interpretability.
 3. **Task 3: Strategic Insights & Ethical AI Governance** - Synthesized predictive model outputs into a stakeholder-ready report, identifying high-risk customer segments and translating data trends into a SMART recommendation framework.
 4. **Task 4: Agentic AI System Design & Executive Briefing** - Architected a proposal for an autonomous, agentic AI debt-management system that automates personalized customer outreach while maintaining "human-in-the-loop" oversight for high-risk escalations. Developed a comprehensive executive presentation outlining the system's learning loops, regulatory guardrails, and expected business KPIs, emphasizing the transition from static modeling to adaptive, real-time risk mitigation.
+
+# Conclusion
+**Focus:** Risk Mitigation & AI Governance
+
+This project successfully transformed Geldium’s collections approach from a reactive, manual process into a proactive, Agentic AI-driven ecosystem. By integrating GenAI for data quality assurance and predictive modeling, I developed a system capable of identifying high-risk delinquency patterns with high transparency.
+* **Business Impact:** The proposed framework enables a 10–20% potential reduction in 30-day delinquency through early, personalized nudges, while simultaneously reducing operational costs by automating low-risk outreach.
+* **Engineering Value:** Established robust Responsible AI guardrails, ensuring that autonomous decision-making remains fair, explainable, and compliant with financial regulations, thereby protecting the bank’s reputation and customer trust.
