@@ -1,2 +1,0 @@
-# **Task 1:** Exploratory Data Analysis and Risk Profiling
-## **Overview:** Conducted a comprehensive audit of 500 records to resolve data quality issues (7.8% missing income data) and identified behavioral "Red Flags." Discovered that credit utilization above 75% and historical missed payments are the strongest leading indicators of delinquency.
